@@ -1,2 +1,2 @@
-# This is a line-bot that chat on the LINE app.
+# This is a simple line-bot on the LINE app that can chat with people.
 Using Pyhton, Heroku
